@@ -1,0 +1,62 @@
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.col1 {
+    background-color: cornflowerblue;
+    color: white;
+   }
+
+.col2 {
+    background-color:blue;
+    color: white;
+}
+
+.col3 {
+    background-color: palegreen;
+    color: white;
+}
+.col4 {
+    background-color:crimson;
+    color: white;
+}
+.col5 {
+    background-color:blueviolet;
+    color: white;
+   }
+
+.col6 {
+    background-color: darkgoldenrod;
+    color: white;
+}
+
+.col7 {
+    background-color: rgb(231, 152, 251);
+    color: white;
+}
+.col8 {
+    background-color:rgb(20, 97, 220);
+    color: white;
+}
+.col9 {
+    background-color: rgb(237, 100, 100);
+    color: white;
+   }
+
+.col10 {
+    background-color:rgb(255, 0, 170);
+    color: white;
+}
+
+.col11 {
+    background-color: rgb(36, 160, 36);
+    color: white;
+}
+.col12 {
+    background-color:rgb(75, 64, 221);
+    color: white;
+}
